@@ -1,9 +1,13 @@
 todolist-MERN
 
-install required library::
++ install required library
+  npm i or npm install
+  
++ Start this project
+  npm run start
 
-npm i or npm install
++ Build
+  npm run dev
 
-Start this project-- npm run  start
-Build-- npm run dev
-Build and Start = npm run start-dev
++ Build and Start
+  npm run start-dev
